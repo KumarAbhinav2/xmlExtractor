@@ -14,4 +14,4 @@
     FinInstrmGnlAttrbts.NtnlCcy
     Issr
 
-5.Store the csv from step 4) in an AWS S3 bucket
+5. Store the csv from step 4) in an AWS S3 bucket
